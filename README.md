@@ -4,6 +4,10 @@ Hermes is a full-stack market-analysis and backtesting project built as a hands-
 
 > **Project status:** Working local web UI with FastAPI backend, Dockerized API, market analysis, and backtesting.
 
+## Hardware
+
+Hermes AI is running on a system equipped with an **NVIDIA GeForce RTX 5080 with 16 GB of VRAM**.
+
 ## What Hermes does
 
 - Provides a React/Vite web dashboard.
